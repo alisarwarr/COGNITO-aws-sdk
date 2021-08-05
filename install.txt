@@ -1,0 +1,3 @@
+npm install @aws-cdk/aws-cognito
+npm install @aws-cdk/aws-lambda
+npm install @aws-cdk/aws-iam
